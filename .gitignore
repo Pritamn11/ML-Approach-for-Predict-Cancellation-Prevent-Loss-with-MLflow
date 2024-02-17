@@ -129,6 +129,9 @@ env.bak/
 venv.bak/
 newenv/
 
+# logs file 
+logs/*.log
+
 # Spyder project settings
 .spyderproject
 .spyproject
